@@ -1,0 +1,17 @@
+{
+  "name": "new-vue-project",
+  "version": "1.0.0",
+  "description": "new vue project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RLee",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "scss": "^0.2.4",
+    "vue": "^2.6.10",
+    "webpack": "^4.35.3"
+  }
+}
